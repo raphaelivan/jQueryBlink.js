@@ -12,7 +12,7 @@
                 ,   'background-color': "#f00"
                 ,   "width": "20px"
                 ,   "border-radius": "20px"
-                ,   "padding": "3px"
+                ,   "padding": "0px"
                 ,   "text-align": "center"
             }
         }
