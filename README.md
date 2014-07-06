@@ -1,6 +1,8 @@
 ## jQueryBlink.JS
 jQueryBlink is a simple jQuery Blink Effect
 
+# Please, don't use this
+
 ## <blink> HTML element
 The blink element has been consistently criticised by usability and accessibility.
 This plugin allows you to create the same effect that **<blink>** html element.
